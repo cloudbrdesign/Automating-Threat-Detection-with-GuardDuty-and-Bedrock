@@ -1,7 +1,7 @@
 # Automating Threat Detection with Amazon GuardDuty and Amazon Bedrock
-Our objective is to build a fully-automated, AI-driven security threat detection pipeline, step-by-step, using AWS-native services.. 
+Our objective is to build a fully-automated, AI-driven security threat detection pipeline, step-by-step, using AWS-native services. 
 
-![Automating Threat Detection](https://raw.githubusercontent.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/main/Assets/Automating_Threat_Detection.001.png)
+![Automating Threat Detection](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/Assets/Automating_Threat_Detection.001.png)
 
 ## Course Agenda
 
