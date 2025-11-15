@@ -7,7 +7,7 @@ Our objective is to build a fully-automated, AI-driven security threat detection
 
 | **Section** | **Module Title**                                | **Focus**                                                   |
 |-------------|--------------------------------------------------|--------------------------------------------------------------|
-| **Module 0** | Setup & Conceptual Overview                      | Environment preparation, AWS architecture introduction        |
+| **[Module 0](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/tree/main/Module%200)** | Setup & Conceptual Overview                      | Environment preparation, AWS architecture introduction        |
 | **Module 1** | GuardDuty Basics & Sample Findings                | Understanding GuardDuty and generating test data              |
 | **Module 2** | EventBridge Rule for GuardDuty Findings           | Capturing findings in real time                              |
 | **Module 3** | SNS Topic & Email Alert Channel                   | Creating automated alert notifications                        |
