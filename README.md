@@ -1,0 +1,1 @@
+# Automating-Threat-Detection-with-GuardDuty-and-Bedrock
