@@ -9,8 +9,8 @@ Our objective is to build a fully-automated, AI-driven security threat detection
 |-------------|--------------------------------------------------|--------------------------------------------------------------|
 | **[Module 0](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/tree/main/Module%200)** | Setup & Conceptual Overview                      | Environment preparation, AWS architecture introduction        |
 | **[Module 1](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/tree/main/Module%201)** | GuardDuty Basics & Sample Findings                | Understanding GuardDuty and generating test data              |
-| **Module 2** | EventBridge Rule for GuardDuty Findings           | Capturing findings in real time                              |
-| **Module 3** | SNS Topic & Email Alert Channel                   | Creating automated alert notifications                        |
-| **Module 4** | Lambda Function That Calls Amazon Bedrock         | Using AI to summarize GuardDuty findings                      |
-| **Module 5** | Step Functions State Machine (Orchestration)      | Linking all services into one workflow                        |
-| **Module 6** | Cleanup                         | Running the full pipeline and resetting the environment       |
+| **[Module 2](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/tree/main/Module%202)** | EventBridge Rule for GuardDuty Findings           | Capturing findings in real time                              |
+| **[Module 3](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/tree/main/Module%203)** | SNS Topic & Email Alert Channel                   | Creating automated alert notifications                        |
+| **[Module 4](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/tree/main/Module%204)** | Lambda Function That Calls Amazon Bedrock         | Using AI to summarize GuardDuty findings                      |
+| **[Module 5](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/tree/main/Module%205)** | Step Functions State Machine (Orchestration)      | Linking all services into one workflow                        |
+| **[Module 6](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/tree/main/Module%206)** | Cleanup                         | Running the full pipeline and resetting the environment       |
