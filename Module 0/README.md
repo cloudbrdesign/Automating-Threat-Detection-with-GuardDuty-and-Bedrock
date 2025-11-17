@@ -1,3 +1,5 @@
+![Automating Threat Detection](https://raw.githubusercontent.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/main/Assets/Automating_Threat_Detection.001.png)
+
 # Conceptual Information
 ### **1\. GuardDuty — Threat Detection**
 
