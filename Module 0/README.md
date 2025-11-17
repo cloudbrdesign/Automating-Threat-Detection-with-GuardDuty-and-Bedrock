@@ -110,4 +110,20 @@ When that last command prints _eu-west-1_, we’re officially anchored.
 
 Perfect — this variable will be used in almost every command that follows.
 
+**Section 5 – Verify Access to Services**
+-----------------------------------------------
+Before we begin creating resources, let's confirm we actually have permission to access the key services we will use.
+
+`aws guardduty list-detectors --region $REGION`
+
+If you see a **detector ID** or even an empty list, you are good - it means the service is reachable.
+
+`aws bedrock list-foundation-models --region $REGION`
+
+If this runs without an **AccessDenied** error, you have **Bedrock** access. 
+
+`aws sns list-topics --region $REGION --max-items 1` ,
+`aws stepfunctions list-state-machines --region $REGION --max-items 1`
+
+Both of these commands should succeed silently. Any permission error means your IAM user or role needs broader access to SNS or Step Functions.
 
