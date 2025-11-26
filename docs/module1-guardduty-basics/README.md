@@ -337,10 +337,9 @@ This raw JSON is what your Bedrock summarizer will later transform into human-re
 
 **🧯** **9\. Troubleshooting**
 =======================
+ 
 
-### **❌** 
-
-### **AccessDeniedException**
+### **❌** **AccessDeniedException**
 
 You need permissions for:
 
