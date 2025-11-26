@@ -214,6 +214,7 @@ Proceed to:
 
 📌 **Module 1 — GuardDuty Basics & Sample Findings**
 
-👉 docs/module1-guardduty-basics/README.md
+👉 [GuardDuty Basics Module README](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/blob/main/docs/module1-guardduty-basics/README.md)
+
 
 You will learn how GuardDuty works, its threat intelligence sources, its supported resource types, and how to generate your first findings.
