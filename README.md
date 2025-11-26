@@ -89,7 +89,7 @@ Each module includes:
 *   Exploring the full threat-detection workflow
     
 
-📄 **Guide:** docs/module0-overview/INTRO.md
+📄 **Guide:** [docs/module0-overview/INTRO.md](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/blob/main/docs/module0-overview/INTRO.md)
 
 
 ### **🔹** **Module 1 — GuardDuty Basics & Sample Findings**
@@ -105,7 +105,7 @@ Each module includes:
 *   Generating sample findings
     
 
-📄 **Guide:** docs/module1-guardduty-basics/README.md
+📄 **Guide:** [docs/module1-guardduty-basics/README.md](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/blob/main/docs/module1-guardduty-basics/README.md)
 
 
 ### **🔹** **Module 2 — EventBridge Rule for GuardDuty Findings**
@@ -119,7 +119,7 @@ Each module includes:
 *   Walking through EventBridge delivery failures
     
 
-📄 **Guide:** docs/module2-eventbridge-rule/README.md
+📄 **Guide:** [docs/module2-eventbridge-rule/README.md](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/blob/main/docs/module2-eventbridge-rule/README.md)
 
 
 ### **🔹** **Module 3 — SNS Topic & Email Alert Channel**
@@ -133,7 +133,7 @@ Each module includes:
 *   Understanding SNS metrics
     
 
-📄 **Guide:** docs/module3-sns-alerting/README.md
+📄 **Guide:** [docs/module3-sns-alerting/README.md](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/blob/main/docs/module3-sns-alerting/README.md)
 
 
 ### **🔹** **Module 4 — Lambda Function That Calls Amazon Bedrock (Titan Text Express)**
@@ -149,9 +149,9 @@ Each module includes:
 *   Returning structured data back to Step Functions
     
 
-📄 **Guide:** docs/module4-bedrock-lambda/README.md
+📄 **Guide:** [docs/module4-bedrock-lambda/README.md](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/blob/main/docs/module4-bedrock-lambda/README.md)
 
-📄 **Code:** code/lambda/bedrock\_summarizer.py
+📄 **Code:** [code/lambda/bedrock_summarizer.py](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/blob/main/code/lambda/bedrock_summarizer.py)
 
 
 ### **🔹** **Module 5 — Step Functions Orchestration Workflow**
@@ -167,11 +167,11 @@ Each module includes:
 *   Visual debugging in Step Functions
     
 
-📄 **Guide:** docs/module5-stepfunctions/README.md
+📄 **Guide:** [docs/module5-stepfunctions/README.md](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/blob/main/docs/module5-stepfunctions/README.md)
 
 📄 **State Machine:** code/stepfunctions/state-machine.json
 
-📄 **Trigger Lambda:** code/lambda/sfn\_trigger.py
+📄 **Trigger Lambda:** [code/lambda/sfn_trigger.py](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/blob/main/code/lambda/sfn_trigger.py)
 
  
 
@@ -188,9 +188,9 @@ Each module includes:
 *   Clean up all resources
     
 
-📄 **Guide:** docs/module6-end-to-end-test-and-cleanup/README.md
+📄 **Guide:** [docs/module6-end-to-end-test-and-cleanup/README.md](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/blob/main/docs/module6-end-to-end-test-and-cleanup/README.md)
 
-📄 **Scripts:** scripts/teardown.sh
+📄 **Scripts:** [scripts/teardown.sh](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/blob/main/code/scripts/teardown.sh)
 
 
 **🛠️** **Repository Structure**
