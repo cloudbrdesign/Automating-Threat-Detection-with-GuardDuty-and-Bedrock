@@ -10,7 +10,7 @@
 -----------------------
 
 
-![alt text](Automating_Threat_Detection.001.png)
+![Automating Threat Detection Architecture](https://raw.githubusercontent.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/main/diagrams/Automating_Threat_Detection.001.png)
 
 
 
@@ -195,7 +195,7 @@ Each module includes:
 
 **🛠️** **Repository Structure**
 ========================
-![alt text](image.png)
+![Repository Structure Diagram](https://raw.githubusercontent.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/main/diagrams/repository-structure.png)
 
 **📘** **Prerequisites**
 =================
