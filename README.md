@@ -293,7 +293,7 @@ Submit a PR if you want to add:
 *   Improvements to automation scripts
     
 
-See CONTRIBUTING.md.
+See [CONTRIBUTING](https://github.com/cloudbrdesign/Automating-Threat-Detection-with-GuardDuty-and-Bedrock/blob/main/CONTRIBUTING.md).
 
 
 
