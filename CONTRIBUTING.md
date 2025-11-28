@@ -124,7 +124,7 @@ If you discover a security vulnerability related to the project:
 
 Instead, email:
 
-**security@yourdomain.com**
+**cloudbrdesign@gmail.com**
 
 We will coordinate responsibly with you.
 
