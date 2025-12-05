@@ -102,7 +102,9 @@ SNS is the simplest and most popular “communication layer” for cloud securit
 Let’s create a dedicated topic for our AI-generated security alerts.
 
 ### **2.1 Create a topic**
-```aws sns create-topic \
+
+```
+aws sns create-topic \
   --name GuardDutyBedrockAlerts \
   --region $REGION
 ```
